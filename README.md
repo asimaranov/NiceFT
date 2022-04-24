@@ -1,8 +1,8 @@
-# Advanced Sample Hardhat Project
+# NiceFT
 
 This project contains simple implemenation of opensea-compatible ERC721, ERC1155 tokens. 
 
-The project comes with a token contracst, test for those contracts, scripts that deploys those contracts and mint task implementations. 
+The project comes with a token contracts, test for those contracts, scripts that deploys those contracts and mint task implementations. 
 
 ## Contract addresses
 Rinkeby:
